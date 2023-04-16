@@ -11,4 +11,5 @@ public class Company {
 	
 	public long id;
 	public String companyName;
+	public String name;
 }
